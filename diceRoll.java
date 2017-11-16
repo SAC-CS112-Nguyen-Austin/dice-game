@@ -72,3 +72,5 @@ public class diceRoll {
 	}
 
 }
+
+//good, but the die object need to be more useful...
